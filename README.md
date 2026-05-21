@@ -1,4 +1,6 @@
-https://books.toscrape.com/catalogue/page-2.html , click inspect and check article tag
+https://books.toscrape.com/catalogue/page-2.html , 
+
+click inspect and check article tag
 
 Title from <h3> tag
 
